@@ -1,3 +1,3 @@
 nevim co
-Under development.
+Under eloent.
 nice
